@@ -1,5 +1,5 @@
 var katzDeliLine = []
 
-takeANumber(katzDeli,katzDeli){
+takeANumber(katzDeli,otherDeli){
   
 }
